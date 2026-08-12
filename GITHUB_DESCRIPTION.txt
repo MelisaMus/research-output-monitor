@@ -1,0 +1,10 @@
+Repository name: research-output-monitor
+
+Short description (recommended):
+Python tool for automated PubMed research-output monitoring, website cross-checking, SQLite persistence, visualization and PDF reporting.
+
+Alternative German description:
+Python-Tool für automatisiertes Forschungsmonitoring via PubMed mit Website-Abgleich, SQLite, Visualisierung und PDF-Reporting.
+
+Suggested topics:
+python, pubmed, research, research-management, automation, sqlite, web-scraping, data-visualization, reportlab, research-analytics

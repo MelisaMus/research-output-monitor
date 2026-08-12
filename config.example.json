@@ -1,0 +1,27 @@
+{
+  "report_title": "Research Output Monitor",
+  "default_affiliation": "Example University",
+  "window_days": 180,
+  "database": "research_output.sqlite",
+  "report_directory": "reports",
+  "group_delay_seconds": 1.0,
+  "user_agent": "ResearchOutputMonitor/1.0",
+  "contact_email": "your.email@example.org",
+  "font_file": null,
+  "research_groups": [
+    {
+      "leader": "Example A",
+      "website_url": "https://example.org/research-group-a",
+      "keywords": []
+    },
+    {
+      "leader": "Example B",
+      "affiliation": "Example Medical Center",
+      "website_url": "https://example.org/research-group-b",
+      "keywords": [
+        "neuro",
+        "imaging"
+      ]
+    }
+  ]
+}
