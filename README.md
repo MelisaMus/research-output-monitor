@@ -1,5 +1,3 @@
-# research-output-monitor
-Python tool for automated PubMed research-output monitoring, website cross-checking, SQLite persistence, visualization and PDF reporting.
 # Research Output Monitor
 
 Ein Python-Tool zur automatisierten Erfassung, Auswertung und Dokumentation wissenschaftlicher Publikationen.
