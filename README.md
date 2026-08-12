@@ -1,5 +1,5 @@
 # Research Output Monitor
-
+Ziel des Projekts: Einen bislang manuellen Prozess im Forschungsmonitoring zu automatisieren und neue Publikationen sowie Aktualisierungsbedarf auf Forschungswebseiten frühzeitig sichtbar zu machen.
 Ein Python-Tool zur automatisierten Erfassung, Auswertung und Dokumentation wissenschaftlicher Publikationen.
 
 Das Projekt entstand aus einem praktischen Research-Operations-/Controlling-Use-Case: Neue Publikationen mehrerer Forschungsgruppen sollen regelmäßig über PubMed erkannt, mit den jeweiligen Forschungswebseiten abgeglichen und in einem kompakten Bericht zusammengeführt werden.
