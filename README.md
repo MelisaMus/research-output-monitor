@@ -58,7 +58,7 @@ research-output-monitor/
 ## Installation
 
 ```bash
-git clone <DEIN-REPOSITORY>
+git clone https://github.com/MelisaMus/research-output-monitor.git
 cd research-output-monitor
 
 python -m venv .venv
